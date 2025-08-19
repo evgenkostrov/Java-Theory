@@ -1,13 +1,6 @@
-sudo apt-add-repository ppa:mmk2410/intellij-idea/releases/tag/v2025.1.2
-sudo apt-get update
-sudo apt-get install intellij-idea-ultimate
 
 
-
-
-
-
-
+https://java-daddy.notion.site/?v=c511fc882efe4ed7964db542eacb5efa
 
 https://tproger.ru/translations/10-java-multithread-practices
 
