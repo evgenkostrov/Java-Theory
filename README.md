@@ -10,9 +10,9 @@
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Yo)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote="Yo")](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 🛠  Technologies and tools
+## Technologies
 
 <a name="learning-now"></a>
 
@@ -20,5 +20,5 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=61DAFB" alt="Kotlin logo" title="Kotlin" height="25" />][]
 &nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=764ABC" alt="Java logo" title="Java" height="25" />][]
+<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=764ABC" alt="Java logo" title="Java" height="25" />
 &nbsp;
