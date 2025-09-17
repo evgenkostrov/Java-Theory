@@ -10,15 +10,15 @@
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Yo)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][]
 &nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=react&logoColor=61DAFB" alt="Kotlin logo" title="Kotlin" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=61DAFB" alt="Kotlin logo" title="Kotlin" height="25" />][]
 &nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=redux&logoColor=764ABC" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=764ABC" alt="Java logo" title="Java" height="25" />][]
 &nbsp;
